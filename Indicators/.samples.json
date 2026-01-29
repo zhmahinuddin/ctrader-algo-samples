@@ -90,9 +90,6 @@
     "name": "Chaikin Money Flow"
   },
   {
-    "name": "Chaikin Oscillator"
-  },
-  {
     "name": "Chaikin Volatility"
   },
   {
@@ -342,9 +339,6 @@
     "name": "HorizontalLine Sample"
   },
   {
-    "name": "Hull Moving Average"
-  },
-  {
     "name": "Ichimoku Kinko Hyo"
   },
   {
@@ -373,9 +367,6 @@
   },
   {
     "name": "Kaufman Adaptive Moving Average"
-  },
-  {
-    "name": "Keltner Channels"
   },
   {
     "name": "Key Sample"
